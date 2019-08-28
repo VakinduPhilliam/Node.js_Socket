@@ -37,4 +37,8 @@ The following are some of the important features that make Node.js the first cho
 ## The following are the areas where Node.js is proving itself as a perfect technology partner;  
 > I/O bound Applications 
 > Data Streaming Applications 
-> Data Intensive Real-time Applications (DIRT) > JSON APIs based Applications > Single Page Applications   Presented by Vakindu Philliam.
+> Data Intensive Real-time Applications (DIRT) 
+> JSON APIs based Applications 
+> Single Page Applications   
+
+Presented by Vakindu Philliam.
