@@ -43,7 +43,7 @@ The following are some of the important features that make Node.js the first cho
 
 > Node Package Manager (NPM)  
 
-## The following are the areas where Node.js is proving itself as a perfect technology partner;  
+## The following are the areas where Node.js is proving itself as a perfect technology partner:  
 > I/O bound Applications 
 
 > Data Streaming Applications 
