@@ -19,7 +19,7 @@ The following are some of the important features that make Node.js the first cho
 
 > No Buffering − Node.js applications never buffer any data. These applications simply output the data in chunks.   
 
-## Techniques explored in this script;  
+## Techniques explored in this script:  
 
 > Buffering using Buffers 
 
