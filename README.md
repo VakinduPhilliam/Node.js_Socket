@@ -1,5 +1,5 @@
 # Node.js_Async
-Node.js is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine) and its latest version is v0.10.36.  
+Node.js is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine) and it's latest version is v0.10.36.  
 
 Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.  
 
