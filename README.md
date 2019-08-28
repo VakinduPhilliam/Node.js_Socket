@@ -24,21 +24,34 @@ The following are some of the important features that make Node.js the first cho
 > Buffering using Buffers 
 
 > App Scaling using Child Processing techniques 
+
 > Express Frameworks 
+
 > Events Emitters 
+
 > File System IO 
+
 > RESTful APIs 
+
 > Application Scaling Using 
+
 > Piping Streams 
+
 > Web Modules (Client and Server) 
+
 > REPL Commands 
+
 > Node Package Manager (NPM)  
 
 ## The following are the areas where Node.js is proving itself as a perfect technology partner;  
 > I/O bound Applications 
+
 > Data Streaming Applications 
+
 > Data Intensive Real-time Applications (DIRT) 
+
 > JSON APIs based Applications 
+
 > Single Page Applications   
 
 Presented by Vakindu Philliam.
