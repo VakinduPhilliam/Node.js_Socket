@@ -1,4 +1,4 @@
-# NodeJS_Async
+# Node.js_Async
 Node.js is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine) and its latest version is v0.10.36.  
 
 Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.  
@@ -19,7 +19,7 @@ The following are some of the important features that make Node.js the first cho
 
 > No Buffering − Node.js applications never buffer any data. These applications simply output the data in chunks.   
 
-## Topics explored in this script include;  
+## Techniques explored in this script include;  
 
 > Buffering using Buffers 
 
